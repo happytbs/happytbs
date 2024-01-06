@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @happytbs
 - 👀 Sometimes…… I’m interested in code！
 - 🌱 I’m currently learning hot to set a Minecraft Sevrer!
-- 💞️ I’m looking to collaborate on FlybirdStdio~
+- 💞️ I’m looking to collaborate on TBSTMC~
 - 📫 Contact me at QQ 3026642514
 
 <!---
